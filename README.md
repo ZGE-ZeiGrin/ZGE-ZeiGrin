@@ -36,8 +36,8 @@
 Grind Mode Activity:
   - Total Commits: 5
   - Days Chasing C++: 3
-  - Lesson Cleared: 8
-  - Current Goal: Lesson #9 (C++ OOP)
+  - Lesson Cleared: 15
+  - Current Goal: Lesson #15 Logical operators (C++ OOP)
 ## 📈 My GitHub Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZGE-ZeiGrin&theme=tokyonight" width="100%" />
