@@ -1,9 +1,17 @@
 # 🌐 Welcome to ZeiGrin's Web Studio
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=gradient&height=200&section=header&text=ZeiGrin%20Grind%20Mode&fontSize=70&animation=fadeIn" />
-</p>
-
+```text
+  _____      _  _____ _             
+ |__  /___ _(_)/ ____| |            
+   / // _ | | | |  __| |            
+  / /|  __| | | | |_ | |            
+ /____\___|_|_|\_____|_|            
+  _____      _             _____            
+ |  __ \    (_)           |  __ \           
+ | |  | |_ __ _ _ __   __ | |  | | _____   _
+ | |  | | '__| | '_ \ / _`| |  | |/ _ \ \ / /
+ | |__| | |  | | | | | (_|| |__| |  __/\ V / 
+ |_____/|_|  |_|_| |_|\__,|_____/ \___| \_/
+```
 ### 🚀 Building the Future of the Web, one line at a time.
 
 - 👨‍💻 **Current Focus:** Mastering Web Architecture & Performance.
@@ -25,12 +33,11 @@
 </p>
 
 ## 📊 My Grind Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZGE-ZeiGrin&show_icons=true&theme=dark" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZGE-ZeiGrin&show_icons=true&theme=tokyonight" />
-</p>
+Grind Mode Activity:
+  - Total Commits: 5
+  - Days Chasing C++: 3
+  - Lesson Cleared: 8
+  - Current Goal: Lesson #9 (C++ OOP)
 ## 📈 My GitHub Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZGE-ZeiGrin&theme=tokyonight" width="100%" />
