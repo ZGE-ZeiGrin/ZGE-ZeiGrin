@@ -42,7 +42,7 @@ Grind Mode Activity:
   - 🎓 Lesson C++ Cleared: 15
   - ⚡ Exercise C++ Cleared: 0
   - 🎯 Current Goal C++ : Lesson #15 Logical Operators (C++ OOP)
-  - 🔜 Current Goal C : LESSON #16: Logical Operators
+  - 🔜 Current Goal C : LESSON #17: Functions
 ## 📉 My GitHub Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZGE-ZeiGrin&theme=tokyonight" width="100%" />
