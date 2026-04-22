@@ -40,7 +40,7 @@
    
 - ⚔️ Days Chasing C++: 3
   
-- 📚 Lesson C Cleared: 16
+- 📚 Lesson C Cleared: 17
   
 - 🔥 Exercise C Cleared: 9
   
@@ -50,7 +50,7 @@
   
 - 🎯 Current Goal C++ : Lesson #15 Logical Operators (C++ OOP)
   
-- 🔜 Current Goal C : LESSON #16: Logical Operators
+- 🔜 Current Goal C : LESSON #17: Functions
 
 ## 📉 My GitHub Activity
 <p align="center">
