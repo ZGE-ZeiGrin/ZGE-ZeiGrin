@@ -32,25 +32,25 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D2FF&center=true&vCenter=true&width=435&lines=C%2B%2B+Grinder;Web+Developer+in+the+making;CTEC+Student;Future+Informatics+Teacher" alt="Typing SVG" />
 </p>
 ## 📊 My Grind Stats
-  - 🎯 Total Contributions: 58
+- 🎯 Total Contributions: 58
   
-  - 🚀 Total Commits: 37
-  - 
-  - 🛡️ Days chasing C: 7
-  - 
-  - ⚔️ Days Chasing C++: 3
-  - 
-  - 📚 Lesson C Cleared: 16
-  - 
-  - 🔥 Exercise C Cleared: 9
-  - 
-  - 🎓 Lesson C++ Cleared: 15
-  - 
-  - ⚡ Exercise C++ Cleared: 0
-  - 
-  - 🎯 Current Goal C++ : Lesson #15 Logical Operators (C++ OOP)
-  - 
-  - 🔜 Current Goal C : LESSON #16: Logical Operators
+- 🚀 Total Commits: 37
+  
+- 🛡️ Days chasing C: 7
+   
+- ⚔️ Days Chasing C++: 3
+  
+- 📚 Lesson C Cleared: 16
+  
+- 🔥 Exercise C Cleared: 9
+  
+- 🎓 Lesson C++ Cleared: 15
+  
+- ⚡ Exercise C++ Cleared: 0
+  
+- 🎯 Current Goal C++ : Lesson #15 Logical Operators (C++ OOP)
+  
+- 🔜 Current Goal C : LESSON #16: Logical Operators
 
 ## 📉 My GitHub Activity
 <p align="center">
