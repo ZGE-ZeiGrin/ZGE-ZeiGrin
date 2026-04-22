@@ -33,14 +33,23 @@
 </p>
 ## 📊 My Grind Stats
   - 🎯 Total Contributions: 58
+  
   - 🚀 Total Commits: 37
-  - 🛡️ Days chasing C: 7 (Take a break 2 night)
+  - 
+  - 🛡️ Days chasing C: 7
+  - 
   - ⚔️ Days Chasing C++: 3
+  - 
   - 📚 Lesson C Cleared: 16
+  - 
   - 🔥 Exercise C Cleared: 9
+  - 
   - 🎓 Lesson C++ Cleared: 15
+  - 
   - ⚡ Exercise C++ Cleared: 0
+  - 
   - 🎯 Current Goal C++ : Lesson #15 Logical Operators (C++ OOP)
+  - 
   - 🔜 Current Goal C : LESSON #16: Logical Operators
 
 ## 📉 My GitHub Activity
