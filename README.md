@@ -52,9 +52,14 @@
   
 - 🔜 Current Goal C : LESSON #17: Functions
 
-## 📉 My GitHub Activity
+### 📊 Profile Summary
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZGE-ZeiGrin&theme=tokyonight" width="100%" />
+  <img src="https://raw.githubusercontent.com/ZGE-ZeiGrin/ZGE-ZeiGrin/main/profile-summary-card-output/tokyonight/0-profile-details.svg" width="48%" />
+  <img src="https://raw.githubusercontent.com/ZGE-ZeiGrin/ZGE-ZeiGrin/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="48%" />
+  <img src="https://raw.githubusercontent.com/ZGE-ZeiGrin/ZGE-ZeiGrin/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="48%" />
+  <img src="https://raw.githubusercontent.com/ZGE-ZeiGrin/ZGE-ZeiGrin/main/profile-summary-card-output/tokyonight/3-stats.svg" width="48%" />
+  <img src="https://raw.githubusercontent.com/ZGE-ZeiGrin/ZGE-ZeiGrin/main/profile-summary-card-output/tokyonight/4-productive-time.svg" width="96%" />
 </p>
 
 ### 🐍 Contribution Grid Snake
