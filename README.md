@@ -13,16 +13,17 @@
 <br/>
 
 
-```bash
-zge-zeigrin@ctec-vn:~$ cat profile.json
-{
-  "alias": ["Grind", "ZeiGrin", "Zenk"],
-  "role": "IT Student @ CTEC -> Target: CTU",
-  "location": "Can Tho, Vietnam",
-  "focus": ["C / C++", "HTML / CSS / JS", "MySQL", "Embedded (ESP32 / Arduino)"],
-  "side_quests": {
-    "youtube": "ZeiGrin (.ZGE) — Delta Force & Geometry Dash",
-    "rhythm_game": "osu!mania 4K (Zenk207)",
-    "status": "Grinding through code, layouts & late-night builds"
-  }
-}
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=999999&color=3FB950&background=0D1117&vCenter=true&width=720&height=36&lines=%F0%9F%94%B4+%F0%9F%9F%A1+%F0%9F%9F%A2+++zge-zeigrin%40ctec-vn%3A~%24+neofetch+--profile" />
+</div>
+
+```yaml
+# zge-zeigrin@ctec-vn:~/profile.yml
+Alias       : ["Grind", "ZeiGrin", "Zenk"]
+Education   : "IT Student @ CTEC -> Target: CTU"
+Location    : "Can Tho, Vietnam"
+Tech_Focus  : ["C / C++", "HTML / CSS / JS", "MySQL", "ESP32 / Arduino"]
+Side_Quests :
+  - YouTube : "ZeiGrin (.ZGE) — Delta Force & Geometry Dash"
+  - Rhythm  : "osu!mania 4K (Zenk207)"
+  - Status  : "Grinding through code, layouts & late-night builds"
