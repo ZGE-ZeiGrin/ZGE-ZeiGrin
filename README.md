@@ -46,10 +46,9 @@ Status      : Still grinding for the CTU dream 🚀</pre>
 ### 📊 GitHub Telemetry
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ZGE-ZeiGrin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=00d2ff&text_color=c9d1d9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZGE-ZeiGrin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=ZGE-ZeiGrin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=00d2ff&text_color=c9d1d9" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ZGE-ZeiGrin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
 </div>
-
 ---
 
 ### 🌐 Connect & Channels
